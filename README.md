@@ -31,4 +31,5 @@ Installation Steps:
 <img width="1000" height="900" alt="image" src="https://github.com/Mukul-Kumar-7/VSDSquadron_Task1_Hardware_Setup/blob/main/VSDSquadron_Task1/Screenshot%202026-03-05%20165405.png?raw=true" />
 ![image alt] (https://github.com/Mukul-Kumar-7/VSDSquadron_Task1_Hardware_Setup/blob/main/VSDSquadron_Task1/Screenshot%202026-03-05%20165405.png?raw=true)
 
+<img width="1000" height="900" alt="image" src="https://github.com/Mukul-Kumar-7/VSDSquadron_Task1_Hardware_Setup/blob/main/VSDSquadron_Task1/Screenshot%202026-03-04%20190809.png" />
 ![image alt] (https://github.com/Mukul-Kumar-7/VSDSquadron_Task1_Hardware_Setup/blob/main/VSDSquadron_Task1/Screenshot%202026-03-04%20190809.png)
