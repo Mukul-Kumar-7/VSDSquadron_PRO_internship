@@ -8,12 +8,12 @@ CPU: 12th Gen Intel(R) Core(TM) i5-12450HX (2.40 GHz)
 RAM: 12 GB  
 
 Installation Steps:
-  Download Freedom Studio from the official SiFive/VSD source
-  Follow the instructions from the provided datasheet.pdf
-  Extract the downloaded archive
-  Run the file named FreedomStudio-3-1-1.exe
-  Select a workspace directory
-  Freedom Studio launches successfully
+  Download Freedom Studio from the official SiFive/VSD source;
+  Follow the instructions from the provided datasheet.pdf;
+  Extract the downloaded archive;
+  Run the file named FreedomStudio-3-1-1.exe;
+  Select a workspace directory;
+  Freedom Studio launches successfully;
   
   (you may face similar issues as the screenshots below if u haven't recieved the board yet)
 
