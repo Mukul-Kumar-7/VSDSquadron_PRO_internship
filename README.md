@@ -5,8 +5,10 @@ VSDSquadron PRO Internship Task 1 – Hardware Setup & Validation
 
 System configuration
 
-OS: Windows 11  
+OS: Windows 11
+
 CPU: 12th Gen Intel(R) Core(TM) i5-12450HX (2.40 GHz) 
+
 RAM: 12 GB  
 
 
